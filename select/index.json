@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "もう恋なんてしない",
+  "base_artist": "槇原敬之",
+  "createdAt": "2026-02-24T13:58:42.518714Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もう恋なんてしない",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/01_もう恋なんてしない_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もう恋なんてしない",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/02_もう恋なんてしない_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "もう恋なんてしない",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/03_もう恋なんてしない_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "もう恋なんてしない - Mou Koinante Shinai",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/04_もう恋なんてしない_-_Mou_Koinante_Shinai_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "もう恋なんてしない",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/05_もう恋なんてしない_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "もう恋なんてしない - Mou Koi Nante Shinai",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/06_もう恋なんてしない_-_Mou_Koi_Nante_Shinai_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "もう恋なんてしない",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/07_もう恋なんてしない_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "もう恋なんてしない (2012 Remaster)",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/08_もう恋なんてしない_(2012_Remaster)_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "もう恋なんてしない",
+      "artist": "Ghost Company",
+      "has_synced": false,
+      "path": "select/09_もう恋なんてしない_Ghost_Company.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "もう恋なんてしない",
+      "artist": "槙原敬之",
+      "has_synced": true,
+      "path": "select/10_もう恋なんてしない_槙原敬之.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "もう恋なんてしない - 2012 Remaster",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/11_もう恋なんてしない_-_2012_Remaster_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "もう恋なんてしない '08",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/12_もう恋なんてしない_'08_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "もう恋なんてしない - 2012 Remaster",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/13_もう恋なんてしない_-_2012_Remaster_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "もう恋なんてしない - Mo Koi Nante Shinai",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/14_もう恋なんてしない_-_Mo_Koi_Nante_Shinai_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もう恋なんてしない",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_01_もう恋なんてしない_槇原_敬之.txt"
+    }
+  ]
+}
